@@ -1,6 +1,7 @@
-import React from 'react'
+import React from 'react';
+import weth from '../assets/weth.png';
 
-const CollectionCard = (id, name, traits, image) => {
+const CollectionCard = ({id, name, traits, image}) => {
   return (
     <div className='CollectionCard'>
         <img src={image} alt="" />
@@ -10,7 +11,7 @@ const CollectionCard = (id, name, traits, image) => {
         </div>
         <div className='priceContainer'>
             <img src={weth} alt="" />
-            <div className='price'>{traits[0] ?.value}</div>
+            <div className='price'>{traits[0]?.value}</div>
         </div>
     </div>
   )
