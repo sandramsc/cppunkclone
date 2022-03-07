@@ -30,6 +30,8 @@ const Header = () => {
             <img src={themeSwitchIcon} />
           </div>
         </div>
+
+        <div className='loginButton'>GET IN</div>
       </div>
   )
 }

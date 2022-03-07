@@ -63,3 +63,11 @@
   align-items: center;
   object-fit: contain;
 }
+
+.themeSwitchContainer > img {
+  height: 25px;
+}
+
+.loginButton {
+  background: linear-gradient(to right, #59f9b7, #66feea);
+}
