@@ -44,3 +44,12 @@
 .headerItems > p {
   margin: 10px;
 }
+
+.headerActions {
+  display: flex;
+  align-items: center;
+}
+
+.headerItems > div {
+  margin: 10px;
+}
