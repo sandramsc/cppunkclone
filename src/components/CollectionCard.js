@@ -1,9 +1,10 @@
 import React from 'react';
 import weth from '../assets/weth.png';
+import './CollectionCard.css';
 
 const CollectionCard = ({id, name, traits, image}) => {
   return (
-    <div className='CollectionCard'>
+    <div className='collectionCard'>
         <img src={image} alt="" />
         <div className='details'></div>
         <div className='name'>
