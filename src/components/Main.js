@@ -1,4 +1,7 @@
-import React from 'react'
+import React from 'react';
+import instagramLogo from '../assets/owner/instagram.png';
+import twitterLogo from '../assets/owner/twitter.png';
+import moreLogo from '../assets/owner/more.png';
 
 const Main = () => {
   return (
@@ -26,6 +29,15 @@ const Main = () => {
                     <div className='ownerNameAndHandle'>
                         <div>0x0F6BB300008a38D35dF4d547ED1ecA9C24cF29bC</div>
                         <div className='ownerHandle'>@sajustsmile</div>
+                    </div>
+                    <div className='ownerLink'>
+                        <img src={instagramLogo} alt='' />
+                    </div>
+                    <div className='ownerLink'>
+                        <img src={twitterLogo} alt='' />
+                    </div>
+                    <div className='ownerLink'>
+                        <img src={moreLogo} alt='' />
                     </div>
                 </div>
             </div>  
