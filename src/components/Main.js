@@ -2,7 +2,7 @@ import React from 'react';
 import instagramLogo from '../assets/owner/instagram.png';
 import twitterLogo from '../assets/owner/twitter.png';
 import moreLogo from '../assets/owner/more.png';
-
+import './Main.css'
 const Main = () => {
   return (
     <div className='main'>
