@@ -1,3 +1,4 @@
+/* Designed & coded by Sandra Ashipala <https://github.com/sajustsmile> 09.03.2022*/ 
 import React, {useState, useEffect } from 'react';
 import instagramLogo from '../assets/owner/instagram.png';
 import twitterLogo from '../assets/owner/twitter.png';
@@ -27,9 +28,8 @@ const Main = ({ selectedPunk, punkListData }) => {
             <div className='punkDetails' style={{ color: '#fff'}}>
                 <div className='title'>
                     {activePunk.name}
+                    <span className='itemNumber'>•#{activePunk.token_id}</span>
                 </div>
-                <span className='itemNumber'>•#{activePunk.token_id}</span>
-            </div>
             <div className='owner'>
                 <div className='ownerImageContainer'>
                 <img className='selectedPunk' 
@@ -39,7 +39,7 @@ const Main = ({ selectedPunk, punkListData }) => {
                 </div>
                 <div className='ownerDetails'>
                     <div className='ownerNameAndHandle'>
-                        <div>0x0F6BB300008a38D35dF4d547ED1ecA9C24cF29bC</div>
+                        <div>{activePunk.owner.address}</div>
                         <div className='ownerHandle'>@sajustsmile</div>
                     </div>
                     <div className='ownerLink'>
@@ -50,6 +50,7 @@ const Main = ({ selectedPunk, punkListData }) => {
                     </div>
                     <div className='ownerLink'>
                         <img src={moreLogo} alt='' />
+                    </div>
                     </div>
                 </div>
             </div>  
