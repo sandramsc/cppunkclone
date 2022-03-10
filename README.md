@@ -1,7 +1,7 @@
 <!-- PROJECT TITLE -->
   <h1 align="center">CP Punk clone</h1>
  <h2 2 align="center">
-    CP Punk clone
+    NFT webapp
     <br />
     </h2>
 
@@ -12,18 +12,14 @@ a web3.0 app that displays NFTs minted on thirdweb and showcased on opensea.
 ## Table of Contents
 
 <details>
-<summary>Team Blue Marble</summary>
+<summary>CP Punk clone</summary>
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
-- [Project Demo](#demo)
 - [Screenshots](#screenshots)
 - [Technology Stack](#technology-stack)
 - [Features](#features)
 - [Running](#running)
-- [Usage](#usage)
-- [Collaborators](#collaborators)
-- [References](#references)
 - [License](#license)
 
 </details>
