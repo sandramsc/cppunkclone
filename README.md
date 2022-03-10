@@ -51,7 +51,7 @@ clone the repository
 ```
 
 ```bash
-$ cd nft-app
+$ cd cppunkclone
 ```
 
 - Install dependencies via npm or yarn: _npm i_ OR _yarn_
