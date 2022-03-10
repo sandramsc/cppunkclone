@@ -44,7 +44,7 @@ Explore the Web app: https://sajustsmile.github.io
 
 ## Features
 
-1. Select to view NFT
+1. Click to view NFT
 
 ## Running
 
