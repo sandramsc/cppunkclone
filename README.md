@@ -1,70 +1,74 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- PROJECT TITLE -->
+  <h1 align="center">CP Punk NFTs</h1>
+ <h2 2 align="center">
+    NFT landing page
+    <br />
+    </h2>
 
-## Available Scripts
+## Application Description
+a web 3.0 app that displays NFTs minted on thirdweb and showcased on opensea.
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+<details>
+<summary>Team Blue Marble</summary>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
++ [Application Description](#application-description)
++ [Table of Contents](#table-of-contents)
++ [Project Demo](#demo)
++ [Screenshots](#screenshots)
++ [Technology Stack](#technology-stack)
++ [Features](#features)
++ [Running](#running)
++ [Usage](#usage)
++ [Collaborators](#collaborators)
++ [References](#references)  
++ [License](#license)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+</details>
 
-### `npm test`
+## Project Demo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Explore the Web app: https://sajustsmile.github.io
 
-### `npm run build`
+## Screenshots
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Technology Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| Technology | Description                               |
+|------------|-------------------------------------------|
+| React.js      | JavaScript library                |
+| CSS3  | Cascading Style Sheets  |
+| thirdweb       | a platform that provides a suite of tools to  build, launch and manage Web3.0 projects                    |
+| OpenSea | the world's first and largest NFT marketplace                  |
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Features
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Select to view NFT 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Running
 
-## Learn More
+To test the application run the following commands on your terminal:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Running the application locally:**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Step #1** - Locate the frontend folder
+```
+clone the repository
+```
 
-### Code Splitting
+```bash
+$ cd nft-app
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Install dependencies via npm or yarn: _npm i_ OR _yarn_
 
-### Analyzing the Bundle Size
+- Website: To start it, run _npm start_ OR _yarn start_
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## License
+[![GitLicense](https://gitlicense.com/badge/sajustsmile/sajustsmile.github.io)](https://github.com/sajustsmile/NFT-app/blob/main/LICENSE)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
