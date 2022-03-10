@@ -30,7 +30,6 @@ Explore the Web app: https://sajustsmile.github.io
 
 ## Screenshots
 
-![Capture](https://user-images.githubusercontent.com/19821445/157583535-ace52248-13e7-49cc-9ac0-7d97fe24f1af.JPG)
 ![Capture JPG2](https://user-images.githubusercontent.com/19821445/157583545-2007be01-b47f-47f0-953f-a219121f5e3b.JPG)
 ![Capture JPG4](https://user-images.githubusercontent.com/19821445/157583660-465d3d40-e852-4884-849f-b06da06164be.JPG)
 
