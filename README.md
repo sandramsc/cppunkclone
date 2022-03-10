@@ -24,10 +24,6 @@ a web3.0 app that displays NFTs minted on thirdweb and showcased on opensea.
 
 </details>
 
-## Project Demo
-
-Explore the Web app: https://sajustsmile.github.io
-
 ## Screenshots
 
 ![Capture JPG2](https://user-images.githubusercontent.com/19821445/157583545-2007be01-b47f-47f0-953f-a219121f5e3b.JPG)
