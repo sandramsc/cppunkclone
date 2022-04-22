@@ -1,4 +1,4 @@
-/* Designed & coded by Sandra Ashipala <https://github.com/sajustsmile> 09.03.2022*/ 
+/* Designed & coded by Sandra Ashipala <https://github.com/sandramsc> 09.03.2022*/ 
 import React from 'react';
 import  './Header.css';
 import punkLogo from '../assets/header/cryptopunk-logo.png';
